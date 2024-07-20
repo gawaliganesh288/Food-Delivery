@@ -1,0 +1,25 @@
+
+/* contact us section */
+.contact-box input , .contact-box textarea{
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.contact-box label{
+    font-size: 15px;
+    margin-left: 22px;
+}
+
+/* footer */
+
+/* utility classes */
+.h-primary{
+    font-size: 26px
+}
+
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+
